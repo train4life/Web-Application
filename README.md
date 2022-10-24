@@ -1,10 +1,9 @@
-[# Web-Application
-Sprint 4 Practicum Web Application
-]
+# Web-Application Sprint 4 Practicum Web Application
+
 
 ## Stocks vs Index Funds
 
-##Summary
+Summary
 A python based code that opens in Streamlit and shows stock volume, rates of return, and other useful information about stocks vs index funds.
 
 Requirements
