@@ -3,6 +3,5 @@ Pandas
 yfinance
 datetime
 plotly.express
-plotly.graph_objects
 numpy 
 pip
