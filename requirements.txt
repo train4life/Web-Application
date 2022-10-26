@@ -5,4 +5,4 @@ datetime
 plotly.express
 numpy 
 pip
-plotly.graph_objects
+
